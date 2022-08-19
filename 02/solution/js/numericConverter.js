@@ -13,7 +13,5 @@ const numericConverter = (decimal) => {
 };
 
 
+export default numericConverter;
 
-export {
-    numericConverter,
-}
